@@ -1,0 +1,9 @@
+.vs
+.vscode
+/bin
+/build
+Makefile
+
+obj
+game/obj
+raylib-master/obj
